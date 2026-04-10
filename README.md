@@ -35,15 +35,9 @@ A solução foi desenvolvida para empresas que precisam processar grandes volume
 
 1. Instale as dependências:
 ```bash
-pip install pandas openpyxl.
+pip install pandas openpyxl
 
--
-
-2. Abra o arquivo no VS Code:
-```bash
-excel_automation.ipynb.
-
--
+2. Abra o arquivo excel_automation.ipynb no VS Code
 
 3. Execute as células em sequência para rodar a automação
 
