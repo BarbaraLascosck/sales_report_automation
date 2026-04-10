@@ -37,9 +37,13 @@ A solução foi desenvolvida para empresas que precisam processar grandes volume
 ```bash
 pip install pandas openpyxl.
 
+-
+
 2. Abra o arquivo no VS Code:
 ```bash
 excel_automation.ipynb.
+
+-
 
 3. Execute as células em sequência para rodar a automação
 
