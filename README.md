@@ -45,7 +45,7 @@ pip install pandas openpyxl
 
 ## 📌 Aplicações reais
 -Este tipo de automação pode ser aplicado em:
--Relatórios de vendas
+-Relatórios de vendas\n
 -Controle financeiro
 -Análise de dados empresariais
 -Rotinas administrativas
