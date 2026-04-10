@@ -31,9 +31,30 @@ A solução foi desenvolvida para empresas que precisam processar grandes volume
 
 ---
 
-## ▶️ Como executar
+## ▶️ Como executar Aplicações reais
 
 1. Instale as dependências:
 ```bash
-pip install pandas openpyxl.
+pip install pandas openpyxl
 
+2. Abra o arquivo no VS Code
+```bash
+excel_automation.ipynb
+
+3. Execute as células em sequência para rodar a automação
+
+---
+
+## 📌 Aplicações reais
+-Este tipo de automação pode ser aplicado em:
+-Relatórios de vendas
+-Controle financeiro
+-Análise de dados empresariais
+-Rotinas administrativas
+-Processamento de grandes volumes de dados
+
+---
+
+## 📬 Contato
+Caso queira implementar uma solução semelhante, estou disponível para desenvolver automações personalizadas.
+🔗 LinkedIn: https://linkedin.com/in/barbara-lascosck⁠�
