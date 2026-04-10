@@ -55,4 +55,5 @@ pip install pandas openpyxl
 
 ## 📬 Contato
 Caso queira implementar uma solução semelhante, estou disponível para desenvolver automações personalizadas.
-🔗 LinkedIn: https://linkedin.com/in/barbara-lascosck⁠�
+
+🔗 LinkedIn: https://linkedin.com/in/barbara-lascosck⁠
