@@ -26,8 +26,9 @@ A solução foi desenvolvida para empresas que precisam processar grandes volume
 
 ## 🛠️ Tecnologias utilizadas
 - Python
-- Pandas
+- pyautogui
 - OpenPyXL
+- pandas
 
 ---
 
